@@ -9,5 +9,6 @@ public class Apple {
 	
 	public static void main(String[] args) {
 		System.out.println("I'm red");
+		System.out.println("hotfix ....");
 	}
 }
