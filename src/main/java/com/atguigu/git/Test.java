@@ -2,7 +2,7 @@ package com.atguigu.git;
 
 /**
  * @author jiangtao
- * @create 2020-05-07 23:15
+ * @create 2020-05-08 22:07
  */
-public class Hello {
+public class Test {
 }
